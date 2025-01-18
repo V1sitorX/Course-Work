@@ -1,0 +1,14 @@
+/home/Artem/Work/WebApplicationClient/bin/Debug/net8.0/WebApplicationClient
+/home/Artem/Work/WebApplicationClient/bin/Debug/net8.0/WebApplicationClient.deps.json
+/home/Artem/Work/WebApplicationClient/bin/Debug/net8.0/WebApplicationClient.runtimeconfig.json
+/home/Artem/Work/WebApplicationClient/bin/Debug/net8.0/WebApplicationClient.dll
+/home/Artem/Work/WebApplicationClient/bin/Debug/net8.0/WebApplicationClient.pdb
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/WebApplicationClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/WebApplicationClient.AssemblyInfoInputs.cache
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/WebApplicationClient.AssemblyInfo.cs
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/WebApplicationClient.csproj.CoreCompileInputs.cache
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/WebApplicationClient.dll
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/refint/WebApplicationClient.dll
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/WebApplicationClient.pdb
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/WebApplicationClient.genruntimeconfig.cache
+/home/Artem/Work/WebApplicationClient/obj/Debug/net8.0/ref/WebApplicationClient.dll
